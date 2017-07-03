@@ -1,38 +1,64 @@
 # Travis Manick
 ## Job Title
 
-You can use the [editor on GitHub](https://github.com/tmanick/tmanick.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Summary
+Travis holds more than 8 years of front and back-end development experience. His ability to leverage code and creativity put him in a position to launch award-winning platforms and marketing hubs. Travis is a thought leader and expert in creating solutions at the convergence of marketing and technology. He enjoys solving complex problems, delivering superior quality work, and specializes in: HTML, CSS, JavaScript, JQuery, PHP, and multiple CMS platforms such as Wordpress and Concrete5.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Skills and Proficiencies
+- HTML5
+- CSS3
+- Javascript ES6 & jQuery
+- PHP
+- MySQL
+- React (Entry Level)
+- Wordpress
+- Concrete5
+- Hubspot
+- Pardot
+- SASS & LESS
+- Pug & Jade
+- Gulp
+- Grunt
+- Github
 
-### Markdown
+- Photoshop CC
+- Illustrator CC
+- Sketch
+- Invision
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Project Experience
+#### [Redstone Grill](http://www.redstonegrill.com/)
+- Front end markup (HTML, CSS, jQuery)
+- Built with responsive Bootstrap 3 framework
+- Wordpress CMS integration
+- Quality Analysis
+- Content Entry
 
-```markdown
-Syntax highlighted code block
+#### [All Whites Egg Whites](http://www.allwhiteseggwhites.com/)
+- Front end markup (HTML, CSS, jQuery)
+- Built with responsive Bootstrap 3 framework
+- Concrete5 CMS integration
+- Client Training and CMS Documentation
 
-# Header 1
-## Header 2
-### Header 3
+#### [Simply Potatoes](http://www.simplypotatoes.com/)
+- Front end markup (HTML, CSS, jQuery)
+- Built with responsive Bootstrap 3 framework
+- Concrete5 CMS integration
+- Client Training and CMS Documentation
 
-- Bulleted
-- List
+#### [Michelinas](http://www.michelinas.com/)
+- Front end markup (HTML, CSS, jQuery)
+- Built with responsive Bootstrap 3 framework
+- Concrete5 CMS integration
 
-1. Numbered
-2. List
+#### [Cargill Topline Balance](http://toplinebalance.com/)
+- Front end markup (HTML, CSS, jQuery)
+- Built with responsive Bootstrap 3 framework
+- Front end markup documentation and handoff to client
 
-**Bold** and _Italic_ and `Code` text
+#### [Cargill Nutrena World](https://www.nutrenaworld.com/)
+- Front end markup (HTML, CSS, jQuery)
+- Built with responsive Bootstrap 3 framework
+- Front end markup documentation and handoff to client
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tmanick/tmanick.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

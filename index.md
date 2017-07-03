@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+# Travis Manick
+## Job Title
 
 You can use the [editor on GitHub](https://github.com/tmanick/tmanick.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 

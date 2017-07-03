@@ -5,24 +5,17 @@
 Travis holds more than 8 years of front and back-end development experience. His ability to leverage code and creativity put him in a position to launch award-winning platforms and marketing hubs. Travis is a thought leader and expert in creating solutions at the convergence of marketing and technology. He enjoys solving complex problems, delivering superior quality work, and specializes in: HTML, CSS, JavaScript, JQuery, PHP, and multiple CMS platforms such as Wordpress and Concrete5.
 
 ### Skills and Proficiencies
-- HTML5
-- CSS3
-- Javascript ES6 & jQuery
-- PHP
-- MySQL
+- HTML5, CSS3, Javascript ES6 & jQuery
+- PHP, MySQL
 - React (Entry Level)
-- Wordpress
-- Concrete5
+- Concrete5, Wordpress
 - Hubspot
 - Pardot
 - SASS & LESS
 - Pug & Jade
-- Gulp
-- Grunt
+- Gulp & Grunt
 - Github
-
-- Photoshop CC
-- Illustrator CC
+- Photoshop, Illustrator CC
 - Sketch
 - Invision
 

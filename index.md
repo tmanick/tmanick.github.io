@@ -14,7 +14,7 @@ Travis holds more than 8 years of front and back-end development experience. His
 - SASS & LESS
 - Pug & Jade
 - Gulp & Grunt
-- Github
+- Github & Bitbucket
 - Photoshop, Illustrator CC
 - Sketch
 - Invision

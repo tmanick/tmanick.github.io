@@ -1,25 +1,43 @@
 # Travis Manick
-## Front End Developer - Salaried Professional at The Creative Group
+## Senior Developer - Periscope
 
 ### Summary
-Travis holds more than 8 years of front and back-end development experience. His ability to leverage code and creativity put him in a position to launch award-winning platforms and marketing hubs. Travis is a thought leader and expert in creating solutions at the convergence of marketing and technology. He enjoys solving complex problems, delivering superior quality work, and specializes in: HTML, CSS, JavaScript, JQuery, PHP, and multiple CMS platforms such as Wordpress and Concrete5.
+Travis holds more than 10 years of front- and back-end development experience. His ability to leverage code and creativity put him in a position to launch award-winning digital experiences. Travis is a thought leader and expert in creating solutions at the convergence of marketing and technology. He enjoys solving complex problems, delivering superior quality work, and specializes in: HTML, CSS, SASS,  JavaScript, jQuery, PHP, and multiple CMS platforms such as Wordpress and Concrete5.
 
 ### Skills and Proficiencies
-- HTML5, CSS3, Javascript ES6 & jQuery
+- HTML5
+- CSS3 & SASS
+- Javascript ES6 & jQuery
 - PHP, MySQL
-- React (Entry Level)
 - Concrete5, Wordpress
-- Hubspot
-- Pardot
-- SASS & LESS
-- Pug & Jade
-- Gulp & Grunt
+- Grunt
 - Github & Bitbucket
 - Photoshop, Illustrator CC
 - Sketch
 - Invision
 
 ### Project Experience
+#### [Society of ProAdvisory](https://societyofproadvisory.com/)
+- Front end markup (HTML, CSS, jQuery)
+- Built with responsive Bootstrap 3 framework
+- Wordpress CMS integration
+- Quality Analysis
+- Content Entry
+
+#### [Target Accelerators](https://targetaccelerators.com/)
+- Front end markup (HTML, CSS, jQuery)
+- Built with responsive Bootstrap 3 framework
+- Wordpress CMS integration
+- Quality Analysis
+- Content Entry
+
+#### [Periscope](https://www.periscope.com/)
+- Front end markup (HTML, CSS, jQuery)
+- Built with responsive Bootstrap 3 framework
+- Wordpress CMS integration
+- Quality Analysis
+- Content Entry
+
 #### [Redstone Grill](http://www.redstonegrill.com/)
 - Front end markup (HTML, CSS, jQuery)
 - Built with responsive Bootstrap 3 framework
@@ -39,19 +57,8 @@ Travis holds more than 8 years of front and back-end development experience. His
 - Concrete5 CMS integration
 - Client Training and CMS Documentation
 
-#### [Michelinas](http://www.michelinas.com/)
-- Front end markup (HTML, CSS, jQuery)
-- Built with responsive Bootstrap 3 framework
-- Concrete5 CMS integration
 
 #### [Cargill Topline Balance](http://toplinebalance.com/)
 - Front end markup (HTML, CSS, jQuery)
 - Built with responsive Bootstrap 3 framework
 - Front end markup documentation and handoff to client
-
-#### [Cargill Nutrena World](https://www.nutrenaworld.com/)
-- Front end markup (HTML, CSS, jQuery)
-- Built with responsive Bootstrap 3 framework
-- Front end markup documentation and handoff to client
-
-

@@ -32,3 +32,16 @@ Travis holds more than 10 years of front- and back-end development experience. H
 #### [Cargill Topline Balance](http://toplinebalance.com/)
 - Concrete5 website built with a custom theme built in 2017
 - Worked with Cargill to create an attractive user experience dedicated to informing Cargill's customers on an often-overlooked part of caring for a horse.
+
+### Experience
+#### PERISCOPE / QUAD GRAPHICS, Minneapolis, MN
+**Senior Developer** February 2018 - Present
+Representative Clients: Arctic Cat, Truvia, Target, JCPenny, Trolli, UnitedHealth Group, Minnesota Lottery, Google, Quickbooks
+
+#### ROBERT HALF TECHNOLOGY | THE CREATIVE GROUP, Minneapolis, MN 
+**Developer** April 2015 - April 2016, July 2017 - February 2018
+Representative Clients: Optum, FirstScribe, Brandography.
+
+#### SPYDER TRAP, Minneapolis, MN 
+**Senior Developer** August 2010 - April 2015, April 2016 - July 2017
+Representative Clients: Deloitte, Cargill, Children’s Hospitals and Clinics of Minnesota, Crystal Farms.

@@ -1,64 +1,34 @@
 # Travis Manick
-## Senior Developer - Periscope
+## Senior Developer
 
 ### Summary
-Travis holds more than 10 years of front- and back-end development experience. His ability to leverage code and creativity put him in a position to launch award-winning digital experiences. Travis is a thought leader and expert in creating solutions at the convergence of marketing and technology. He enjoys solving complex problems, delivering superior quality work, and specializes in: HTML, CSS, SASS,  JavaScript, jQuery, PHP, and multiple CMS platforms such as Wordpress and Concrete5.
+Travis holds more than 10 years of front- and back-end development experience. He loves pairing his development skills with a passion for user experience and accessibility to create and maintain high quality web projects. He has a curiosity and hunger to learn and utilize new technologies and practices.
 
 ### Skills and Proficiencies
-- HTML5
-- CSS3 & SASS
-- Javascript ES6 & jQuery
-- PHP, MySQL
-- Concrete5, Wordpress
-- Grunt
-- Github & Bitbucket
-- Photoshop, Illustrator CC
-- Sketch
-- Invision
+- Collaborate and communicate with clients and product managers to turn business needs into digital experiences.
+- Work solo or on small, focused teams to complete high quality, efficient goals.
+- Estimate time, cost, and capacity on web projects front-to-back.
+- Review and implement quality assurance testing, accessibility best practices, and SEO tools.
+- Develop and implement best practices and efficiency to improve product build time and reusability.
+- HTML5, CSS3, Javascript ES6 & jQuery | PHP, MySQL
+- Sketch, InVision, Photoshop, Adobe XD
 
 ### Project Experience
-#### [Society of ProAdvisory](https://societyofproadvisory.com/)
-- Front end markup (HTML, CSS, jQuery)
-- Built with responsive Bootstrap 3 framework
-- Wordpress CMS integration
-- Quality Analysis
-- Content Entry
-
 #### [Target Accelerators](https://targetaccelerators.com/)
-- Front end markup (HTML, CSS, jQuery)
-- Built with responsive Bootstrap 3 framework
-- Wordpress CMS integration
-- Quality Analysis
-- Content Entry
+- Worked with Target to create a new website to attract and inform new incubator candidates.
+- The latest program saw application submissions increased by almost 400%.
+
+#### Society of ProAdvisory
+- A temporary microsite centered around Quickbook’s ProAdvisor training program.
+- Increased program engagement by 1,200%.
 
 #### [Periscope](https://www.periscope.com/)
-- Front end markup (HTML, CSS, jQuery)
-- Built with responsive Bootstrap 3 framework
-- Wordpress CMS integration
-- Quality Analysis
-- Content Entry
+- Wordpress website built with a custom theme utilizing SEO and accessibility best practices.
 
 #### [Redstone Grill](http://www.redstonegrill.com/)
-- Front end markup (HTML, CSS, jQuery)
-- Built with responsive Bootstrap 3 framework
-- Wordpress CMS integration
-- Quality Analysis
-- Content Entry
-
-#### [All Whites Egg Whites](http://www.allwhiteseggwhites.com/)
-- Front end markup (HTML, CSS, jQuery)
-- Built with responsive Bootstrap 3 framework
-- Concrete5 CMS integration
-- Client Training and CMS Documentation
-
-#### [Simply Potatoes](http://www.simplypotatoes.com/)
-- Front end markup (HTML, CSS, jQuery)
-- Built with responsive Bootstrap 3 framework
-- Concrete5 CMS integration
-- Client Training and CMS Documentation
-
+- Wordpress website built with a custom theme built in 2018
+- Worked with an agency and their existing development practices to build a new website for a local restaurant.
 
 #### [Cargill Topline Balance](http://toplinebalance.com/)
-- Front end markup (HTML, CSS, jQuery)
-- Built with responsive Bootstrap 3 framework
-- Front end markup documentation and handoff to client
+- Concrete5 website built with a custom theme built in 2017
+- Worked with Cargill to create an attractive user experience dedicated to informing Cargill's customers on an often-overlooked part of caring for a horse.

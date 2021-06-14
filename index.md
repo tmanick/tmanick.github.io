@@ -1,8 +1,7 @@
-# Travis Manick
-## Senior Developer
-
 ### Summary
 Travis holds more than 10 years of front- and back-end development experience. He loves pairing his development skills with a passion for user experience and accessibility to create and maintain high quality web projects. He has a curiosity and hunger to learn and utilize new technologies and practices.
+
+---
 
 ### Skills and Proficiencies
 - Collaborate and communicate with clients and product managers to turn business needs into digital experiences.

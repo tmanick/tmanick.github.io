@@ -32,18 +32,22 @@ Travis holds more than 10 years of front- and back-end development experience. H
 ### EXPERIENCE
 #### HUNT ADKINS, Minneapolis, MN
 **Development Director** October 2021 - Present
+
 Representative Clients: Hayward, Great Clips, Sever's, Boston Scientific
 
 #### PERISCOPE / QUAD GRAPHICS, Minneapolis, MN
 **Senior Developer** February 2018 - October 2021
+
 Representative Clients: Arctic Cat, Truvia, Target, JCPenny, Trolli, UnitedHealth Group, Minnesota Lottery, Google, Quickbooks
 
 #### ROBERT HALF TECHNOLOGY | THE CREATIVE GROUP, Minneapolis, MN 
 **Developer** April 2015 - April 2016, July 2017 - February 2018
+
 Representative Clients: Optum, FirstScribe, Brandography.
 
 #### SPYDER TRAP, Minneapolis, MN 
 **Senior Developer** August 2010 - April 2015, April 2016 - July 2017
+
 Representative Clients: Deloitte, Cargill, Children’s Hospitals and Clinics of Minnesota, Crystal Farms.
 
 ### CONTACT

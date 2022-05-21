@@ -25,17 +25,17 @@ Travis holds more than 10 years of front- and back-end development experience. H
 #### [Periscope](https://www.periscope.com/)
 - Wordpress website built with a custom theme utilizing SEO and accessibility best practices.
 
-#### [Redstone Grill](http://www.redstonegrill.com/)
-- Wordpress website built with a custom theme built in 2018
-- Worked with an agency and their existing development practices to build a new website for a local restaurant.
-
-#### [Cargill Topline Balance](http://toplinebalance.com/)
-- Concrete5 website built with a custom theme built in 2017
-- Worked with Cargill to create an attractive user experience dedicated to informing Cargill's customers on an often-overlooked part of caring for a horse.
+#### [Verist](http://www.shopverist.com/)
+- Wordpress website built with a custom theme built in 2020
+- Took on existing project, managing upkeep and adding additional features and optimizations.
 
 ### EXPERIENCE
+#### HUNT ADKINS, Minneapolis, MN
+**Development Director** October 2021 - Present
+Representative Clients: Hayward, Great Clips, Sever's, Boston Scientific
+
 #### PERISCOPE / QUAD GRAPHICS, Minneapolis, MN
-**Senior Developer** February 2018 - Present
+**Senior Developer** February 2018 - October 2021
 Representative Clients: Arctic Cat, Truvia, Target, JCPenny, Trolli, UnitedHealth Group, Minnesota Lottery, Google, Quickbooks
 
 #### ROBERT HALF TECHNOLOGY | THE CREATIVE GROUP, Minneapolis, MN 
@@ -45,3 +45,7 @@ Representative Clients: Optum, FirstScribe, Brandography.
 #### SPYDER TRAP, Minneapolis, MN 
 **Senior Developer** August 2010 - April 2015, April 2016 - July 2017
 Representative Clients: Deloitte, Cargill, Children’s Hospitals and Clinics of Minnesota, Crystal Farms.
+
+### CONTACT
+- Email: [travis.manick@gmail.com](mailto:travis.manick@gmail.com)
+- LinkedIn: [travismanick](https://www.linkedin.com/in/travismanick/)

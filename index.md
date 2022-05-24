@@ -11,7 +11,8 @@ Travis holds more than 10 years of front- and back-end development experience. H
 - Develop and implement best practices and efficiency to improve product build time and reusability.
 - HTML5, CSS3, Javascript ES6 & jQuery
 - PHP, MySQL
-- Sketch, InVision, Photoshop, Adobe XD
+- Wordpress, WooCommerce, Shopify
+- Figma, Sketch, InVision, Photoshop, Adobe XD
 
 ### PROJECT HIGHLIGHTS
 #### [Target Accelerators](https://targetaccelerators.com/)
